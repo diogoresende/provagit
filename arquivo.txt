@@ -4,3 +4,4 @@ commit develop 1
 commit feature 1
 commit feature 1 conflito
 commit release 1
+commit hotfix 1
